@@ -20,6 +20,7 @@ You will never forget it until Alzheimer's coming.
 
 ### Useage
 
+    # sudo pip install click # if it's your first running.
     $ python password.py
     Salt:
     Product:
